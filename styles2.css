@@ -1,0 +1,29 @@
+.intro, .why-join, .cta-section {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+}
+
+.intro h2, .why-join h2, .cta-section h2 {
+    color: #005A9C;
+    text-align: center;
+}
+
+.cta-section ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.cta-section li {
+    font-size: 18px;
+    padding: 8px 0;
+}
+
+.cta-section .cta {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    text-align: center;
+}
